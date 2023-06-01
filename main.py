@@ -15,3 +15,6 @@ if __name__ == '__main__':
     print("Área del Rombo: ", area_rombo(25, 50)
 
     print("Área del Rombo: ", area_rombo(25, 50)
+      
+    print("Área del Rombo: ", area_rombo(25, 50)
+
